@@ -1,0 +1,8 @@
+/home/decibel/Downloads/Spring II/verses-backend/src/main/java/com/verses/VersesApplication.java
+/home/decibel/Downloads/Spring II/verses-backend/src/main/java/com/verses/model/Comment.java
+/home/decibel/Downloads/Spring II/verses-backend/src/main/java/com/verses/model/Verse.java
+/home/decibel/Downloads/Spring II/verses-backend/src/main/java/com/verses/controller/VerseController.java
+/home/decibel/Downloads/Spring II/verses-backend/src/main/java/com/verses/repository/VerseRepository.java
+/home/decibel/Downloads/Spring II/verses-backend/src/main/java/com/verses/model/VoteOption.java
+/home/decibel/Downloads/Spring II/verses-backend/src/main/java/com/verses/service/VerseService.java
+/home/decibel/Downloads/Spring II/verses-backend/src/main/java/com/verses/config/DataInitializer.java
