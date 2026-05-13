@@ -34,7 +34,7 @@ export const renderLanding = (container) => {
 
       <footer class="p-12 border-t border-white/5 mt-24">
         <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8 text-[10px] text-gray-600 font-bold tracking-[0.2em] uppercase">
-          <a href="https://github.com" target="_blank" class="flex items-center gap-2 hover:text-brand transition-colors">
+          <a href="https://github.com/MnemosLociDev/Spring-s-Verses" target="_blank" class="flex items-center gap-2 hover:text-brand transition-colors">
             <i data-lucide="github" class="w-4 h-4"></i> SOURCE_REPOSITORY
           </a>
           <div class="flex gap-8">
@@ -43,7 +43,7 @@ export const renderLanding = (container) => {
             <span class="hover:text-brand cursor-pointer transition-colors">Security</span>
           </div>
           <span class="text-brand">
-            GROUP 17
+            GROUP 17 - Spring II
           </span>
         </div>
       </footer>
