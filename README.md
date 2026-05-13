@@ -83,6 +83,3 @@ npm run dev
 
 ***
 
-<div align="center">
-Built with ❤️ for the community.
-</div>
